@@ -1,0 +1,22 @@
+{
+  "name": "hw13-node-express-handlebars",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000o\u0000d\u0000e\u0000-\u0000m\u0000o\u0000n\u0000k\u0000e\u0000y\u0000-\u0000b\u0000a\u0000r\u0000s\u0000\r\u0000 \u0000",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travionfrancis/node-monkey-bars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travionfrancis/node-monkey-bars/issues"
+  },
+  "homepage": "https://github.com/travionfrancis/node-monkey-bars#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
