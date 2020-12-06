@@ -1,0 +1,45 @@
+body,
+html {
+  background-color: #ffcc64;
+  background-size: cover;
+}
+
+#header-image {
+  width: 20%;
+}
+
+.container {
+margin-top: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+  
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: burlywood;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+input[type="radio"]{
+  margin: 0 10px 0 10px;
+}
+
+input[type="text"]{
+  margin: 0 10px 0 10px;
+}
